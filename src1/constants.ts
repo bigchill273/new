@@ -152,12 +152,10 @@ export const PERSONAL_INFO: PersonalInfo = {
 // 2. Navigation Configuration
 // ==========================================
 
-export const NAV_LINKS: readonly NavLink[] = [
-  { id: "home", label: "Home", href: "#home", iconName: "Home" },
+export const NAV_LINKS: NavLink[] = [
+  { id: "home", label: "Home", href: "#", iconName: "Home" },
   { id: "about", label: "About", href: "#about", iconName: "User" },
-  { id: "skills", label: "Skills", href: "#skills", iconName: "Code2" },
   { id: "projects", label: "Projects", href: "#projects", iconName: "FolderGit2" },
-  { id: "experience", label: "Experience", href: "#experience", iconName: "Briefcase" },
   { id: "contact", label: "Contact", href: "#contact", iconName: "Mail" },
 ] as const;
 

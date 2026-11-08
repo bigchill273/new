@@ -1,0 +1,119 @@
+/*purple*/
+@theme {
+  --color-background: #0d0b14;
+  --color-foreground: #f5f3ff;
+
+  --color-card: #151221;
+
+  --color-primary: #8b5cf6;
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #1e1930;
+  --color-secondary-foreground: #a78bfa;
+
+  --color-muted: #26203d;
+  --color-muted-foreground: #948ba8;
+
+  --color-border: #282142;
+
+  --radius: 0.75rem;
+
+  --color-highlight: #f59e0b;
+  --color-surface: #181426;
+}
+
+/*Crimson*/
+@theme {
+  --color-background: #120c10;
+  --color-foreground: #faf5f8;
+
+  --color-card: #1b1218;
+
+  --color-primary: #f43f5e;
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #291823;
+  --color-secondary-foreground: #fb7185;
+
+  --color-muted: #38202f;
+  --color-muted-foreground: #9c8192;
+
+  --color-border: #361e2d;
+
+  --radius: 0.75rem;
+
+  --color-highlight: #f59e0b;
+  --color-surface: #20151c;
+}
+
+/*Emerald*/
+@theme {
+  --color-background: #08120e;
+  --color-foreground: #f0fdf4;
+
+  --color-card: #0f1d17;
+
+  --color-primary: #10b981;
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #162920;
+  --color-secondary-foreground: #34d399;
+
+  --color-muted: #1f382c;
+  --color-muted-foreground: #6e8c7e;
+
+  --color-border: #1e3b2e;
+
+  --radius: 0.75rem;
+
+  --color-highlight: #eab308;
+  --color-surface: #13241d;
+}
+
+/*Blue*/
+@theme {
+  --color-background: #0b1120;
+  --color-foreground: #f8fafc;
+
+  --color-card: #131c31;
+
+  --color-primary: #3b82f6;
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #1a2744;
+  --color-secondary-foreground: #60a5fa;
+
+  --color-muted: #223358;
+  --color-muted-foreground: #7e91ad;
+
+  --color-border: #1e3052;
+
+  --radius: 0.75rem;
+
+  --color-highlight: #f97316;
+  --color-surface: #17233d;
+}
+
+/*indigo*/
+@theme {
+  --color-background: #0a0d17;
+  --color-foreground: #f1f5f9;
+
+  --color-card: #101726;
+
+  --color-primary: #6366f1;
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #1a2238;
+  --color-secondary-foreground: #818cf8;
+
+  --color-muted: #222c48;
+  --color-muted-foreground: #818fa8;
+
+  --color-border: #212c45;
+
+  --radius: 0.75rem;
+
+  --color-highlight: #38bdf8;
+  --color-surface: #161e33;
+}
